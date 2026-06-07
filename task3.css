@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+}
+
+.container{
+    max-width:600px;
+    margin:auto;
+    margin-top:40px;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+}
+
+input{
+    width:70%;
+    padding:10px;
+}
+
+button{
+    padding:10px;
+    margin:5px;
+}
+
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
